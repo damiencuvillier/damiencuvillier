@@ -1,52 +1,18 @@
 ## Damien Cuvillier
 
-> 🎯 Working software over comprehensive documentation & complex projects
+> ”Working software over comprehensive documentation & complex projects”
  
 
-<table width="100%" style="width:100%">
-<tr>
-<td rowspan="2" valign="top">
-<strong>Full stack senior lead tech</strong>.<br />
-Scrum & Agile afficianados.<br />
-UX addict. <br />
-</td>
-<th>
-Contact
-</th>
-</tr>
-<tr>
-<td style="text-align:center" rowspan="2" align="center">
-<a href="https://twitter.com/damiencuvillier">Twitter</a><br />
-<a href="https://www.linkedin.com/in/damiencuvillier/">LinkedIn</a><br />
-<a href="https://discordapp.com/users/damiencuvillier#2968">Discord</a>
-</td>
+## Freelance Software Craftman
 
-</tr>
-<tr><td align="right">
-<a href="https://damiencuvillier.com">Personal homepage</a> - <a href="https://damiencuvillier.com/cv">CV</a>
-</td></tr>
-<tr>
-<th colspan="1" align="left">
-Freelance Software Craftman</th>
-<td align="right" >🇫🇷 From french alps.</td>
-</tr>
-<tr><td colspan="2">
 
-Working @<strong><a href="https://gotan.io">Gotan</a></strong>.<br />
+Working @[Gotan](https://gotan.io) - Software Company
 
-<ul style="list-style:square;padding-left:15px">
-<li>Building, with love, efficient softwares for customers & our own products. </li>
-<li>Coaching developers for betters habits & process. </li>
-<li>Customizing existing software (most of them opensource) on specific contexts & needs.</li>
-<li>Automating data flows & making customer data more useful & powerful. 
-<li>Helping non expert people to understand and take benefit from digital world.</li>
-</ul>
-<p style="float:right" align="right">
-<a href="https://github.com/gotandev">GitHub</a> - <a href="https://gotan.io">WebSite</a>
-</p>
-
-</td>
-</table>
+* Building, with love, efficient softwares for customers & our own products. 
+* Coaching developers for betters habits & process. 
+* Customizing existing software (most of them opensource) on specific contexts & needs.
+* Automating data flows & making customer data more useful & powerful. 
+* Helping non expert people to understand and take benefit from digital world.
 
 
 
